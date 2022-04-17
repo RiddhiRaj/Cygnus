@@ -97,10 +97,12 @@ a {
   -o-transition: 0.5s;
   transition: 0.5s;
   text-decoration: none !important;
+  font-weight: bold;
 }
 a:hover, a:active, a:focus {
-  color: #e44c65;
+  color: #e4cd4c;
   outline: none;
+  
 }
 
 * {
