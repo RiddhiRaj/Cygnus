@@ -467,9 +467,10 @@ a:hover, a:active, a:focus {
   color: #ffffff;
 }
 
-.owl-theme .owl-controls .owl-page span {
+/* .owl-theme .owl-controls .owl-page span {
   background: #ffffff;
-}
+} */ 
+/*everything related to the owl theme is in owl.theme.css*/
 
 
 /*---------------------------------------
