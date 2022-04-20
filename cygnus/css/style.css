@@ -468,15 +468,7 @@ a:hover, a:active, a:focus {
 }
 
 .owl-theme .owl-controls .owl-page span {
-  display: block;
-  width: 16px;
-  height: 6px;
-  margin: 5px 7px;
-    margin-top: 5px;
-  filter: Alpha(Opacity=50);
-  opacity: 0.5;
   background: #ffffff;
-  margin-top: 12px;
 }
 
 
