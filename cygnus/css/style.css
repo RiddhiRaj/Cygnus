@@ -390,6 +390,9 @@ a:hover, a:active, a:focus {
   padding: 100px;
   position: relative;
 }
+#about .about-thumb h1{
+  color: #000000;
+}
 
 #about .about-img img {
   border: 8px solid #ab9f9f;
@@ -464,6 +467,17 @@ a:hover, a:active, a:focus {
   color: #ffffff;
 }
 
+.owl-theme .owl-controls .owl-page span {
+  display: block;
+  width: 16px;
+  height: 6px;
+  margin: 5px 7px;
+    margin-top: 5px;
+  filter: Alpha(Opacity=50);
+  opacity: 0.5;
+  background: #ffffff;
+  margin-top: 12px;
+}
 
 
 /*---------------------------------------
