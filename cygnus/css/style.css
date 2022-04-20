@@ -254,7 +254,8 @@ a:hover, a:active, a:focus {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: rgba(255, 255, 255, 0.5);
+  /* background-color: rgba(255, 255, 255, 0.5); */
+  background-color: rgba(254, 0, 0, 0.5);
   visibility: hidden;
   -webkit-transform: scaleX(0);
   -moz-transform: scaleX(0);
